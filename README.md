@@ -40,11 +40,11 @@ Soy Pentester y programador web, pero sobre todo, entusiaste de la informática.
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="Souarvdey777" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Souarvdey777 | Github" width="32px" src="https://img.icons8.com/fluency/48/000000/github.png" />][Github]
-[<img align="left" alt="Souarvdey777 | Twitter" width="32px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>][twitter]
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="32px" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="32px" src="https://img.icons8.com/fluency/64/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="titi" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="titi | Github" width="32px" src="https://img.icons8.com/fluency/48/000000/github.png" />][Github]
+[<img align="left" alt="titi | Twitter" width="32px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>][twitter]
+[<img align="left" alt="titi | LinkedIn" width="32px" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="titi | Instagram" width="32px" src="https://img.icons8.com/fluency/64/000000/instagram-new.png" />][instagram]
 
 <br/>
 
@@ -65,8 +65,8 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 :star: From [Souravdey777](https://github.com/Souravdey777)
 
 [website]: https://souravdey777.github.io/Portfolio/
-[twitter]: https://twitter.com/Souravdey777
+[twitter]: https://twitter.com/11titiprieto
 [youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
+[instagram]: https://www.instagram.com/11titiprieto
+[linkedin]: https://www.linkedin.com/in/titiprieto/
 [Github]: https://github.com/ertiti11
