@@ -20,7 +20,7 @@ Soy Pentester y programador web, pero sobre todo, entusiaste de la informática.
  💬 Contáctame para cualquier cosa.
 
 
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/ertiti11)  <img src="https://img.shields.io/github/followers/ertiti11?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ---
