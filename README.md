@@ -41,10 +41,12 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 
 ### You can find in me in the web 🌍
 [<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="Souarvdey777 | Github" width="32px" src="https://img.icons8.com/fluency/48/000000/github.png" />][Github]
+[<img align="left" alt="Souarvdey777 | Twitter" width="32px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>][twitter]
+
+[<img align="left" alt="Souarvdey777 | LinkedIn" width="32px" src="https://img.icons8.com/fluency/48/000000/linkedin.png "/>][linkedin]
+
+[<img align="left" alt="Souarvdey777 | Instagram" width="32px" src="https://img.icons8.com/fluency/64/000000/instagram-new.png" />][instagram]
 
 <br/>
 
@@ -69,4 +71,4 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/souravdey777/
 [linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medium]: https://medium.com/@Souravdey777/
+[Github]: https://github.com/ertiti11
