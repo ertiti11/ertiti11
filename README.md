@@ -34,18 +34,16 @@ Soy Pentester y programador web, pero sobre todo, entusiaste de la informática.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ertiti11&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
+
 
 ---
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Souarvdey777" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Souarvdey777 | Github" width="32px" src="https://img.icons8.com/fluency/48/000000/github.png" />][Github]
 [<img align="left" alt="Souarvdey777 | Twitter" width="32px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>][twitter]
-
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="32px" src="https://img.icons8.com/fluency/48/000000/linkedin.png "/>][linkedin]
-
 [<img align="left" alt="Souarvdey777 | Instagram" width="32px" src="https://img.icons8.com/fluency/64/000000/instagram-new.png" />][instagram]
 
 <br/>
