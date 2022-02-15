@@ -6,12 +6,10 @@
   <img src="https://github.com/ertiti11/ertiti11/blob/master/images/1frame.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+Soy Pentester y programador web, pero sobre todo, entusiaste de la informática. :wink:
  
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
- 
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
- 
+
+ 🌱 Estoy estudiando en <a href="https://eiposgrados.com/"> Escuela internacional de posgrados</a> (Hacking ético y ciberseguridad) 
  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
  👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
