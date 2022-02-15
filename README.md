@@ -6,12 +6,12 @@
   <img src="https://github.com/ertiti11/ertiti11/blob/master/images/1frame.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-Soy Pentester y programador web, pero sobre todo, entusiaste de la informática. :wink:
+Soy Pentester y programador web, pero sobre todo, entusiasta de la informática. :wink:
  
 
  🌱 Estoy estudiando en <a href="https://eiposgrados.com/"> Escuela internacional de posgrados(Hacking ético y ciberseguridad) </a>.
 
- :books: Quiero aprender <img src="https://img.shields.io/badge/C-Programming-lightgrey"> para crear exploit de bajo nivel.
+ :books: Quiero aprender <img src="https://img.shields.io/badge/C-Programming-lightgrey"> para crear exploit´s de bajo nivel.
  
  👯 Me gustaría colaborar en algún proyecto con personas.
  
@@ -26,7 +26,7 @@ Soy Pentester y programador web, pero sobre todo, entusiaste de la informática.
 ---
 
 
-### Lenguages y herrmientas preferidas
+### Lenguages y herramientas preferidas
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=for-the-badge&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Sass-cc6699?style=for-the-badge&logo=sass&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/Flask-yellow?style=for-the-badge&logo=flask"> <img src="https://img.shields.io/badge/-C?style=for-the-badge&logo=C&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white"> 
 
