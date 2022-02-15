@@ -49,22 +49,15 @@ Soy Pentester y programador web, pero sobre todo, entusiaste de la informática.
 <br/>
 
 
----
-### You can checkout my blogs :loudspeaker: 
 
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
-
-[Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
-
----
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [Souravdey777](https://github.com/Souravdey777)
+:star: From [ertiti11](https://github.com/ertiti11)
 
-[website]: https://souravdey777.github.io/Portfolio/
+[website]: https://ertiti11.github.io/Portfolio/
 [twitter]: https://twitter.com/11titiprieto
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/11titiprieto
