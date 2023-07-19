@@ -9,13 +9,8 @@
 Soy Pentester y programador web, pero sobre todo, entusiasta de la informática. :wink:
  
 
- 🌱 Estoy estudiando en <a href="https://eiposgrados.com/"> Escuela internacional de posgrados(Hacking ético y ciberseguridad) </a>.
 
- :books: Quiero aprender <img src="https://img.shields.io/badge/C-Programming-lightgrey"> para crear exploit´s de bajo nivel.
- 
- 👯 Me gustaría colaborar en algún proyecto con personas.
- 
-
+ :books: Estudiante de 42 Málaga.
  
  💬 Contáctame para cualquier cosa.
 
